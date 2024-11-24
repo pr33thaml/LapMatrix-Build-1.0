@@ -19,7 +19,7 @@ def reservation_system():
     today = date.today()
 
     # Load laptops from CSV
-    all_laptops = load_laptops_from_csv(r'C:\Users\Maverick\Documents\College\Project\Lap_Rec\data\train_laptops.csv')  # Change the path if needed
+    all_laptops = load_laptops_from_csv('data/train_laptops.csv')  # Change the path if needed
 
     # Remove expired reservations
     reservations = list(reservations_collection.find())
