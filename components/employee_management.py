@@ -10,7 +10,7 @@ from datetime import datetime
 client = MongoClient("mongodb://localhost:27017/")
 db = client["lapmatrix"]
 employee_details_collection = db["employees"]
-data = pd.read_csv(r'C:\Users\Maverick\Documents\College\Project\Lap_Rec\data\train_laptops.csv')
+data = pd.read_csv('data/train_laptops.csv')  # Use relative path
 
 # Regular expression for validating an email address
 def is_valid_email(email: str) -> bool:
