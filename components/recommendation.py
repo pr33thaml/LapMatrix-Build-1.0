@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 # Load the data (Make sure the path is correct)
-data = pd.read_csv(r'C:\Users\Maverick\Documents\College\Project\Lap_Rec\data\train_laptops.csv')
+data = pd.read_csv('data/train_laptops.csv')  # Use relative path
 
 # Clean the dataset by removing commas
 data['Required CPU Speed (GHz)'] = data['Required CPU Speed (GHz)'].astype(str).str.replace(',', '').astype(float)
