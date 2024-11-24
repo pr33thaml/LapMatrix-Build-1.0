@@ -1,0 +1,461 @@
+﻿Role,Required CPU Speed (GHz),Required RAM (GB),Required Storage (GB),Required GPU,Recommended Laptop
+Software Developer,3,16,512,No,Dell XPS 15
+Graphic Designer,3.5,32,"1,000",Yes,"Apple MacBook Pro 16"""
+Data Scientist,3.2,32,"1,000",Yes,Lenovo ThinkPad X1
+Business Analyst,2.5,8,256,No,HP Spectre x360
+System Administrator,3,16,512,No,Dell Latitude 7400
+Network Engineer,3,16,512,No,Dell Latitude 7420
+Database Administrator,3.2,16,512,No,Lenovo ThinkPad T14s
+IT Support Specialist,2.5,8,256,No,HP EliteBook 840 G6
+Cybersecurity Analyst,3,16,512,No,Dell Precision 5550
+DevOps Engineer,3.2,16,512,No,Lenovo ThinkPad P52
+UX/UI Designer,3.5,16,512,Yes,Apple MacBook Air M2
+Cloud Engineer,3.2,16,512,No,Dell XPS 13
+QA Engineer,3,16,512,No,HP Envy x360
+IT Manager,3.2,16,512,No,Dell Latitude 7430
+Technical Writer,2.5,8,256,No,Lenovo Yoga C740
+Web Developer,3,16,512,No,"Apple MacBook Pro 13"""
+IT Consultant,3.2,16,512,No,HP Spectre x360
+Systems Analyst,3,16,512,No,Dell XPS 15
+Full Stack Developer,3.2,16,512,No,Lenovo ThinkPad X1
+Mobile App Developer,3.5,16,512,Yes,"Apple MacBook Pro 16"""
+Front End Developer,3,16,512,No,HP Envy x360
+Back End Developer,3.2,16,512,No,Dell Latitude 7400
+DevOps Specialist,3.2,16,512,No,Lenovo ThinkPad T14s
+Cloud Architect,3.5,32,"1,000",No,Dell Precision 5550
+Network Administrator,3,16,512,No,Dell Latitude 7420
+Security Engineer,3.2,16,512,Yes,Lenovo ThinkPad P52
+IT Director,3.5,32,"1,000",No,"Apple MacBook Pro 16"""
+Software Engineer,3,16,512,No,HP EliteBook 840 G6
+Hardware Engineer,3.5,32,"1,000",No,Dell XPS 15
+IT Coordinator,3,16,512,No,Lenovo Yoga C740
+Systems Administrator,3.2,16,512,No,Dell Latitude 7430
+Network Architect,3.5,32,"1,000",No,Lenovo ThinkPad X1
+Data Analyst,3,16,512,No,HP Spectre x360
+Project Manager,3,16,512,No,Dell Latitude 7400
+Support Engineer,2.5,8,256,No,HP Envy x360
+Application Support,3,16,512,No,Dell XPS 13
+Cloud Support Specialist,3.2,16,512,No,Apple MacBook Air M2
+IT Operations Manager,3.2,16,512,No,Lenovo ThinkPad T14s
+Business Systems Analyst,3,16,512,No,HP EliteBook 840 G6
+Technical Support Specialist,2.5,8,256,No,Dell Latitude 7420
+IT Specialist,3,16,512,No,Lenovo ThinkPad P52
+IT Analyst,3.2,16,512,No,Dell Latitude 7430
+Software Developer,3.1,16,512,No,Dell XPS 15
+Graphic Designer,3.4,32,"1,000",Yes,"Apple MacBook Pro 16"""
+Data Scientist,3.3,32,"1,000",Yes,Lenovo ThinkPad X1
+Business Analyst,2.6,8,256,No,HP Spectre x360
+System Administrator,3.1,16,512,No,Dell Latitude 7400
+Network Engineer,3.1,16,512,No,Dell Latitude 7420
+Database Administrator,3.3,16,512,No,Lenovo ThinkPad T14s
+IT Support Specialist,2.6,8,256,No,HP EliteBook 840 G6
+Cybersecurity Analyst,3.1,16,512,No,Dell Precision 5550
+DevOps Engineer,3.3,16,512,No,Lenovo ThinkPad P52
+UX/UI Designer,3.4,16,512,Yes,Apple MacBook Air M2
+Cloud Engineer,3.3,16,512,No,Dell XPS 13
+QA Engineer,3.1,16,512,No,HP Envy x360
+IT Manager,3.3,16,512,No,Dell Latitude 7430
+Technical Writer,2.6,8,256,No,Lenovo Yoga C740
+Web Developer,3.1,16,512,No,"Apple MacBook Pro 13"""
+IT Consultant,3.3,16,512,No,HP Spectre x360
+Systems Analyst,3.1,16,512,No,Dell XPS 15
+Full Stack Developer,3.3,16,512,No,Lenovo ThinkPad X1
+Mobile App Developer,3.4,16,512,Yes,"Apple MacBook Pro 16"""
+Front End Developer,3.1,16,512,No,HP Envy x360
+Back End Developer,3.3,16,512,No,Dell Latitude 7400
+DevOps Specialist,3.3,16,512,No,Lenovo ThinkPad T14s
+Cloud Architect,3.4,32,"1,000",No,Dell Precision 5550
+Network Administrator,3.1,16,512,No,Dell Latitude 7420
+Security Engineer,3.3,16,512,Yes,Lenovo ThinkPad P52
+IT Director,3.4,32,"1,000",No,"Apple MacBook Pro 16"""
+Software Engineer,3.1,16,512,No,HP EliteBook 840 G6
+Hardware Engineer,3.4,32,"1,000",No,Dell XPS 15
+IT Coordinator,3.1,16,512,No,Lenovo Yoga C740
+Systems Administrator,3.3,16,512,No,Dell Latitude 7430
+Network Architect,3.4,32,"1,000",No,Lenovo ThinkPad X1
+Data Analyst,3.1,16,512,No,HP Spectre x360
+Project Manager,3.1,16,512,No,Dell Latitude 7400
+Support Engineer,2.6,8,256,No,HP Envy x360
+Application Support,3.1,16,512,No,Dell XPS 13
+Cloud Support Specialist,3.3,16,512,No,Apple MacBook Air M2
+IT Operations Manager,3.3,16,512,No,Lenovo ThinkPad T14s
+Business Systems Analyst,3.1,16,512,No,HP EliteBook 840 G6
+Technical Support Specialist,2.6,8,256,No,Dell Latitude 7420
+IT Specialist,3.1,16,512,No,Lenovo ThinkPad P52
+IT Analyst,3.3,16,512,No,Dell Latitude 7430
+Business Intelligence Analyst,3.1,16,512,No,Dell XPS 15
+Cloud Operations Specialist,3.3,16,512,No,"Apple MacBook Pro 13"""
+IT Trainer,3,16,512,No,HP Spectre x360
+IT Procurement Specialist,3.2,16,512,No,Lenovo Yoga C740
+Infrastructure Engineer,3.3,16,512,No,Dell Latitude 7400
+Technology Consultant,3.1,16,512,No,HP Envy x360
+Systems Engineer,3.4,16,512,No,Dell XPS 15
+IT Auditor,3.1,16,512,No,Lenovo ThinkPad X1
+IT Compliance Specialist,3.3,16,512,No,"Apple MacBook Pro 16"""
+IT Support Manager,3.2,16,512,No,Dell Latitude 7430
+IT Security Consultant,3.4,16,512,Yes,Lenovo ThinkPad T14s
+Cloud Solutions Architect,3.4,32,"1,000",No,Dell Precision 5550
+Network Security Engineer,3.3,16,512,Yes,HP EliteBook 840 G6
+IT Governance Specialist,3.2,16,512,No,Lenovo Yoga C740
+Data Architect,3.4,32,"1,000",No,Dell XPS 15
+Application Developer,3.1,16,512,No,Apple MacBook Air M2
+IT Asset Manager,3.1,16,512,No,HP Spectre x360
+IT Project Coordinator,3.2,16,512,No,Dell Latitude 7400
+System Analyst,3.3,16,512,No,Lenovo ThinkPad P52
+Technical Support Engineer,3.1,16,512,No,Dell Latitude 7420
+IT Systems Architect,3.4,32,"1,000",No,"Apple MacBook Pro 16"""
+Technology Manager,3.3,16,512,No,Lenovo ThinkPad T14s
+Network Operations Specialist,3.1,16,512,No,Dell XPS 15
+IT Systems Manager,3.4,16,512,No,HP Envy x360
+Technical Services Manager,3.3,16,512,No,Lenovo Yoga C740
+Data Center Technician,3.1,16,512,No,Dell Latitude 7430
+Software Developer,3.2,16,512,No,Dell XPS 15
+Graphic Designer,3.6,32,"1,000",Yes,"Apple MacBook Pro 16"""
+Data Scientist,3.4,32,"1,000",Yes,Lenovo ThinkPad X1
+Business Analyst,2.7,8,256,No,HP Spectre x360
+System Administrator,3.2,16,512,No,Dell Latitude 7400
+Network Engineer,3.2,16,512,No,Dell Latitude 7420
+Database Administrator,3.4,16,512,No,Lenovo ThinkPad T14s
+IT Support Specialist,2.7,8,256,No,HP EliteBook 840 G6
+Cybersecurity Analyst,3.2,16,512,No,Dell Precision 5550
+DevOps Engineer,3.4,16,512,No,Lenovo ThinkPad P52
+UX/UI Designer,3.6,16,512,Yes,Apple MacBook Air M2
+Cloud Engineer,3.4,16,512,No,Dell XPS 13
+QA Engineer,3.2,16,512,No,HP Envy x360
+IT Manager,3.4,16,512,No,Dell Latitude 7430
+Technical Writer,2.7,8,256,No,Lenovo Yoga C740
+Web Developer,3.2,16,512,No,"Apple MacBook Pro 13"""
+IT Consultant,3.4,16,512,No,HP Spectre x360
+Systems Analyst,3.2,16,512,No,Dell XPS 15
+Full Stack Developer,3.4,16,512,No,Lenovo ThinkPad X1
+Mobile App Developer,3.6,16,512,Yes,"Apple MacBook Pro 16"""
+Front End Developer,3.2,16,512,No,HP Envy x360
+Back End Developer,3.4,16,512,No,Dell Latitude 7400
+DevOps Specialist,3.4,16,512,No,Lenovo ThinkPad T14s
+Cloud Architect,3.6,32,"1,000",No,Dell Precision 5550
+Network Administrator,3.2,16,512,No,Dell Latitude 7420
+Security Engineer,3.4,16,512,Yes,Lenovo ThinkPad P52
+IT Director,3.6,32,"1,000",No,"Apple MacBook Pro 16"""
+Software Engineer,3.2,16,512,No,HP EliteBook 840 G6
+Hardware Engineer,3.6,32,"1,000",No,Dell XPS 15
+IT Coordinator,3.2,16,512,No,Lenovo Yoga C740
+Systems Administrator,3.4,16,512,No,Dell Latitude 7430
+Network Architect,3.6,32,"1,000",No,Lenovo ThinkPad X1
+Data Analyst,3.2,16,512,No,HP Spectre x360
+Project Manager,3.2,16,512,No,Dell Latitude 7400
+Support Engineer,2.7,8,256,No,HP Envy x360
+Application Support,3.2,16,512,No,Dell XPS 13
+Cloud Support Specialist,3.4,16,512,No,Apple MacBook Air M2
+IT Operations Manager,3.4,16,512,No,Lenovo ThinkPad T14s
+Business Systems Analyst,3.2,16,512,No,HP EliteBook 840 G6
+Technical Support Specialist,2.7,8,256,No,Dell Latitude 7420
+IT Specialist,3.2,16,512,No,Lenovo ThinkPad P52
+IT Analyst,3.4,16,512,No,Dell Latitude 7430
+Business Intelligence Analyst,3.2,16,512,No,Dell XPS 15
+Cloud Operations Specialist,3.4,16,512,No,"Apple MacBook Pro 13"""
+IT Trainer,3.1,16,512,No,HP Spectre x360
+IT Procurement Specialist,3.3,16,512,No,Lenovo Yoga C740
+Infrastructure Engineer,3.4,16,512,No,Dell Latitude 7400
+Technology Consultant,3.2,16,512,No,HP Envy x360
+Systems Engineer,3.6,16,512,No,Dell XPS 15
+IT Auditor,3.2,16,512,No,Lenovo ThinkPad X1
+IT Compliance Specialist,3.4,16,512,No,"Apple MacBook Pro 16"""
+IT Support Manager,3.3,16,512,No,Dell Latitude 7430
+IT Security Consultant,3.6,16,512,Yes,Lenovo ThinkPad T14s
+Cloud Solutions Architect,3.6,32,"1,000",No,Dell Precision 5550
+Network Security Engineer,3.4,16,512,Yes,HP EliteBook 840 G6
+IT Governance Specialist,3.3,16,512,No,Lenovo Yoga C740
+Data Architect,3.6,32,"1,000",No,Dell XPS 15
+Application Developer,3.2,16,512,No,Apple MacBook Air M2
+IT Asset Manager,3.2,16,512,No,HP Spectre x360
+IT Project Coordinator,3.3,16,512,No,Dell Latitude 7400
+System Analyst,3.4,16,512,No,Lenovo ThinkPad P52
+Technical Support Engineer,3.2,16,512,No,Dell Latitude 7420
+IT Systems Architect,3.6,32,"1,000",No,"Apple MacBook Pro 16"""
+Technology Manager,3.4,16,512,No,Lenovo ThinkPad T14s
+Network Operations Specialist,3.2,16,512,No,Dell XPS 15
+IT Systems Manager,3.6,16,512,No,HP Envy x360
+Technical Services Manager,3.4,16,512,No,Lenovo Yoga C740
+Data Center Technician,3.2,16,512,No,Dell Latitude 7430
+Software Developer,3.2,16,512,No,Dell XPS 15
+Graphic Designer,3.6,32,"1,000",Yes,"Apple MacBook Pro 16"""
+Data Scientist,3.4,32,"1,000",Yes,Lenovo ThinkPad X1
+Business Analyst,2.7,8,256,No,HP Spectre x360
+System Administrator,3.2,16,512,No,Dell Latitude 7400
+Network Engineer,3.2,16,512,No,Dell Latitude 7420
+Database Administrator,3.4,16,512,No,Lenovo ThinkPad T14s
+IT Support Specialist,2.7,8,256,No,HP EliteBook 840 G6
+Cybersecurity Analyst,3.2,16,512,No,Dell Precision 5550
+DevOps Engineer,3.4,16,512,No,Lenovo ThinkPad P52
+UX/UI Designer,3.6,16,512,Yes,Apple MacBook Air M2
+Cloud Engineer,3.4,16,512,No,Dell XPS 13
+QA Engineer,3.2,16,512,No,HP Envy x360
+IT Manager,3.4,16,512,No,Dell Latitude 7430
+Technical Writer,2.7,8,256,No,Lenovo Yoga C740
+Web Developer,3.2,16,512,No,"Apple MacBook Pro 13"""
+IT Consultant,3.4,16,512,No,HP Spectre x360
+Systems Analyst,3.2,16,512,No,Dell XPS 15
+Full Stack Developer,3.4,16,512,No,Lenovo ThinkPad X1
+Mobile App Developer,3.6,16,512,Yes,"Apple MacBook Pro 16"""
+Front End Developer,3.2,16,512,No,HP Envy x360
+Back End Developer,3.4,16,512,No,Dell Latitude 7400
+DevOps Specialist,3.4,16,512,No,Lenovo ThinkPad T14s
+Cloud Architect,3.6,32,"1,000",No,Dell Precision 5550
+Network Administrator,3.2,16,512,No,Dell Latitude 7420
+Security Engineer,3.4,16,512,Yes,Lenovo ThinkPad P52
+IT Director,3.6,32,"1,000",No,"Apple MacBook Pro 16"""
+Software Engineer,3.2,16,512,No,HP EliteBook 840 G6
+Hardware Engineer,3.6,32,"1,000",No,Dell XPS 15
+IT Coordinator,3.2,16,512,No,Lenovo Yoga C740
+Systems Administrator,3.4,16,512,No,Dell Latitude 7430
+Network Architect,3.6,32,"1,000",No,Lenovo ThinkPad X1
+Data Analyst,3.2,16,512,No,HP Spectre x360
+Project Manager,3.2,16,512,No,Dell Latitude 7400
+Support Engineer,2.7,8,256,No,HP Envy x360
+Application Support,3.2,16,512,No,Dell XPS 13
+Cloud Support Specialist,3.4,16,512,No,Apple MacBook Air M2
+IT Operations Manager,3.4,16,512,No,Lenovo ThinkPad T14s
+Business Systems Analyst,3.2,16,512,No,HP EliteBook 840 G6
+Technical Support Specialist,2.7,8,256,No,Dell Latitude 7420
+IT Specialist,3.2,16,512,No,Lenovo ThinkPad P52
+IT Analyst,3.4,16,512,No,Dell Latitude 7430
+Business Intelligence Analyst,3.2,16,512,No,Dell XPS 15
+Cloud Operations Specialist,3.4,16,512,No,"Apple MacBook Pro 13"""
+IT Trainer,3.1,16,512,No,HP Spectre x360
+IT Procurement Specialist,3.3,16,512,No,Lenovo Yoga C740
+Infrastructure Engineer,3.4,16,512,No,Dell Latitude 7400
+Technology Consultant,3.2,16,512,No,HP Envy x360
+Systems Engineer,3.6,16,512,No,Dell XPS 15
+IT Auditor,3.2,16,512,No,Lenovo ThinkPad X1
+IT Compliance Specialist,3.4,16,512,No,"Apple MacBook Pro 16"""
+IT Support Manager,3.3,16,512,No,Dell Latitude 7430
+IT Security Consultant,3.6,16,512,Yes,Lenovo ThinkPad T14s
+Cloud Solutions Architect,3.6,32,"1,000",No,Dell Precision 5550
+Network Security Engineer,3.4,16,512,Yes,HP EliteBook 840 G6
+IT Governance Specialist,3.3,16,512,No,Lenovo Yoga C740
+Data Architect,3.6,32,"1,000",No,Dell XPS 15
+Application Developer,3.2,16,512,No,Apple MacBook Air M2
+IT Asset Manager,3.2,16,512,No,HP Spectre x360
+IT Project Coordinator,3.3,16,512,No,Dell Latitude 7400
+System Analyst,3.4,16,512,No,Lenovo ThinkPad P52
+Technical Support Engineer,3.2,16,512,No,Dell Latitude 7420
+IT Systems Architect,3.6,32,"1,000",No,"Apple MacBook Pro 16"""
+Technology Manager,3.4,16,512,No,Lenovo ThinkPad T14s
+Network Operations Specialist,3.2,16,512,No,Dell XPS 15
+IT Systems Manager,3.6,16,512,No,HP Envy x360
+Technical Services Manager,3.4,16,512,No,Lenovo Yoga C740
+Data Center Technician,3.2,16,512,No,Dell Latitude 7430
+oftware Developer,3.2,16,512,No,Dell XPS 15
+Graphic Designer,3.6,32,"1,000",Yes,"Apple MacBook Pro 16"""
+Data Scientist,3.4,32,"1,000",Yes,Lenovo ThinkPad X1
+Business Analyst,2.7,8,256,No,HP Spectre x360
+System Administrator,3.2,16,512,No,Dell Latitude 7400
+Network Engineer,3.2,16,512,No,Dell Latitude 7420
+Database Administrator,3.4,16,512,No,Lenovo ThinkPad T14s
+IT Support Specialist,2.7,8,256,No,HP EliteBook 840 G6
+Cybersecurity Analyst,3.2,16,512,No,Dell Precision 5550
+DevOps Engineer,3.4,16,512,No,Lenovo ThinkPad P52
+UX/UI Designer,3.6,16,512,Yes,Apple MacBook Air M2
+Cloud Engineer,3.4,16,512,No,Dell XPS 13
+QA Engineer,3.2,16,512,No,HP Envy x360
+IT Manager,3.4,16,512,No,Dell Latitude 7430
+Technical Writer,2.7,8,256,No,Lenovo Yoga C740
+Web Developer,3.2,16,512,No,"Apple MacBook Pro 13"""
+IT Consultant,3.4,16,512,No,HP Spectre x360
+Systems Analyst,3.2,16,512,No,Dell XPS 15
+Full Stack Developer,3.4,16,512,No,Lenovo ThinkPad X1
+Mobile App Developer,3.6,16,512,Yes,"Apple MacBook Pro 16"""
+Front End Developer,3.2,16,512,No,HP Envy x360
+Back End Developer,3.4,16,512,No,Dell Latitude 7400
+DevOps Specialist,3.4,16,512,No,Lenovo ThinkPad T14s
+Cloud Architect,3.6,32,"1,000",No,Dell Precision 5550
+Network Administrator,3.2,16,512,No,Dell Latitude 7420
+Security Engineer,3.4,16,512,Yes,Lenovo ThinkPad P52
+IT Director,3.6,32,"1,000",No,"Apple MacBook Pro 16"""
+Software Engineer,3.2,16,512,No,HP EliteBook 840 G6
+Hardware Engineer,3.6,32,"1,000",No,Dell XPS 15
+IT Coordinator,3.2,16,512,No,Lenovo Yoga C740
+Systems Administrator,3.4,16,512,No,Dell Latitude 7430
+Network Architect,3.6,32,"1,000",No,Lenovo ThinkPad X1
+Data Analyst,3.2,16,512,No,HP Spectre x360
+Project Manager,3.2,16,512,No,Dell Latitude 7400
+Support Engineer,2.7,8,256,No,HP Envy x360
+Application Support,3.2,16,512,No,Dell XPS 13
+Cloud Support Specialist,3.4,16,512,No,Apple MacBook Air M2
+IT Operations Manager,3.4,16,512,No,Lenovo ThinkPad T14s
+Business Systems Analyst,3.2,16,512,No,HP EliteBook 840 G6
+Technical Support Specialist,2.7,8,256,No,Dell Latitude 7420
+IT Specialist,3.2,16,512,No,Lenovo ThinkPad P52
+IT Analyst,3.4,16,512,No,Dell Latitude 7430
+Business Intelligence Analyst,3.2,16,512,No,Dell XPS 15
+Cloud Operations Specialist,3.4,16,512,No,"Apple MacBook Pro 13"""
+IT Trainer,3.1,16,512,No,HP Spectre x360
+IT Procurement Specialist,3.3,16,512,No,Lenovo Yoga C740
+Infrastructure Engineer,3.4,16,512,No,Dell Latitude 7400
+Technology Consultant,3.2,16,512,No,HP Envy x360
+Systems Engineer,3.6,16,512,No,Dell XPS 15
+IT Auditor,3.2,16,512,No,Lenovo ThinkPad X1
+IT Compliance Specialist,3.4,16,512,No,"Apple MacBook Pro 16"""
+IT Support Manager,3.3,16,512,No,Dell Latitude 7430
+IT Security Consultant,3.6,16,512,Yes,Lenovo ThinkPad T14s
+Cloud Solutions Architect,3.6,32,"1,000",No,Dell Precision 5550
+Network Security Engineer,3.4,16,512,Yes,HP EliteBook 840 G6
+IT Governance Specialist,3.3,16,512,No,Lenovo Yoga C740
+Data Architect,3.6,32,"1,000",No,Dell XPS 15
+Application Developer,3.2,16,512,No,Apple MacBook Air M2
+IT Asset Manager,3.2,16,512,No,HP Spectre x360
+IT Project Coordinator,3.3,16,512,No,Dell Latitude 7400
+System Analyst,3.4,16,512,No,Lenovo ThinkPad P52
+Technical Support Engineer,3.2,16,512,No,Dell Latitude 7420
+IT Systems Architect,3.6,32,"1,000",No,"Apple MacBook Pro 16"""
+Technology Manager,3.4,16,512,No,Lenovo ThinkPad T14s
+Network Operations Specialist,3.2,16,512,No,Dell XPS 15
+IT Systems Manager,3.6,16,512,No,HP Envy x360
+Technical Services Manager,3.4,16,512,No,Lenovo Yoga C740
+Data Center Technician,3.2,16,512,No,Dell Latitude 7430
+Software Developer,3.2,16,512,No,Dell XPS 15
+Graphic Designer,3.6,32,"1,000",Yes,"Apple MacBook Pro 16"""
+Data Scientist,3.4,32,"1,000",Yes,Lenovo ThinkPad X1
+Business Analyst,2.7,8,256,No,HP Spectre x360
+System Administrator,3.2,16,512,No,Dell Latitude 7400
+Network Engineer,3.2,16,512,No,Dell Latitude 7420
+Database Administrator,3.4,16,512,No,Lenovo ThinkPad T14s
+IT Support Specialist,2.7,8,256,No,HP EliteBook 840 G6
+Cybersecurity Analyst,3.2,16,512,No,Dell Precision 5550
+DevOps Engineer,3.4,16,512,No,Lenovo ThinkPad P52
+UX/UI Designer,3.6,16,512,Yes,Apple MacBook Air M2
+Cloud Engineer,3.4,16,512,No,Dell XPS 13
+QA Engineer,3.2,16,512,No,HP Envy x360
+IT Manager,3.4,16,512,No,Dell Latitude 7430
+Technical Writer,2.7,8,256,No,Lenovo Yoga C740
+Web Developer,3.2,16,512,No,"Apple MacBook Pro 13"""
+IT Consultant,3.4,16,512,No,HP Spectre x360
+Systems Analyst,3.2,16,512,No,Dell XPS 15
+Full Stack Developer,3.4,16,512,No,Lenovo ThinkPad X1
+Mobile App Developer,3.6,16,512,Yes,"Apple MacBook Pro 16"""
+Front End Developer,3.2,16,512,No,HP Envy x360
+Back End Developer,3.4,16,512,No,Dell Latitude 7400
+DevOps Specialist,3.4,16,512,No,Lenovo ThinkPad T14s
+Cloud Architect,3.6,32,"1,000",No,Dell Precision 5550
+Network Administrator,3.2,16,512,No,Dell Latitude 7420
+Security Engineer,3.4,16,512,Yes,Lenovo ThinkPad P52
+IT Director,3.6,32,"1,000",No,"Apple MacBook Pro 16"""
+Software Engineer,3.2,16,512,No,HP EliteBook 840 G6
+Hardware Engineer,3.6,32,"1,000",No,Dell XPS 15
+IT Coordinator,3.2,16,512,No,Lenovo Yoga C740
+Systems Administrator,3.4,16,512,No,Dell Latitude 7430
+Network Architect,3.6,32,"1,000",No,Lenovo ThinkPad X1
+Data Analyst,3.2,16,512,No,HP Spectre x360
+Project Manager,3.2,16,512,No,Dell Latitude 7400
+Support Engineer,2.7,8,256,No,HP Envy x360
+Application Support,3.2,16,512,No,Dell XPS 13
+Cloud Support Specialist,3.4,16,512,No,Apple MacBook Air M2
+IT Operations Manager,3.4,16,512,No,Lenovo ThinkPad T14s
+Business Systems Analyst,3.2,16,512,No,HP EliteBook 840 G6
+Technical Support Specialist,2.7,8,256,No,Dell Latitude 7420
+IT Specialist,3.2,16,512,No,Lenovo ThinkPad P52
+IT Analyst,3.4,16,512,No,Dell Latitude 7430
+Business Intelligence Analyst,3.2,16,512,No,Dell XPS 15
+Cloud Operations Specialist,3.4,16,512,No,"Apple MacBook Pro 13"""
+IT Trainer,3.1,16,512,No,HP Spectre x360
+IT Procurement Specialist,3.3,16,512,No,Lenovo Yoga C740
+Infrastructure Engineer,3.4,16,512,No,Dell Latitude 7400
+Technology Consultant,3.2,16,512,No,HP Envy x360
+Systems Engineer,3.6,16,512,No,Dell XPS 15
+IT Auditor,3.2,16,512,No,Lenovo ThinkPad X1
+IT Compliance Specialist,3.4,16,512,No,"Apple MacBook Pro 16"""
+IT Support Manager,3.3,16,512,No,Dell Latitude 7430
+IT Security Consultant,3.6,16,512,Yes,Lenovo ThinkPad T14s
+Cloud Solutions Architect,3.6,32,"1,000",No,Dell Precision 5550
+Network Security Engineer,3.4,16,512,Yes,HP EliteBook 840 G6
+IT Governance Specialist,3.3,16,512,No,Lenovo Yoga C740
+Data Architect,3.6,32,"1,000",No,Dell XPS 15
+Application Developer,3.2,16,512,No,Apple MacBook Air M2
+IT Asset Manager,3.2,16,512,No,HP Spectre x360
+IT Project Coordinator,3.3,16,512,No,Dell Latitude 7400
+System Analyst,3.4,16,512,No,Lenovo ThinkPad P52
+Technical Support Engineer,3.2,16,512,No,Dell Latitude 7420
+IT Systems Architect,3.6,32,"1,000",No,"Apple MacBook Pro 16"""
+Technology Manager,3.4,16,512,No,Lenovo ThinkPad T14s
+Network Operations Specialist,3.2,16,512,No,Dell XPS 15
+IT Systems Manager,3.6,16,512,No,HP Envy x360
+Technical Services Manager,3.4,16,512,No,Lenovo Yoga C740
+Data Center Technician,3.2,16,512,No,Dell Latitude 7430
+Network Engineer,3.4,16,512,No,Dell Latitude 7420
+Software Developer,3.2,16,512,No,Lenovo ThinkPad X1
+Data Scientist,3.6,32,"1,000",Yes,"Apple MacBook Pro 16"""
+Graphic Designer,3.4,16,512,Yes,Dell XPS 15
+QA Engineer,3.2,16,512,No,HP Envy x360
+Business Analyst,3,8,256,No,Lenovo Yoga C740
+IT Support Specialist,2.8,8,256,No,Dell Latitude 7400
+Database Administrator,3.4,16,512,No,HP Spectre x360
+System Administrator,3.2,16,512,No,Dell XPS 15
+Cybersecurity Analyst,3.6,32,"1,000",Yes,"Apple MacBook Pro 13"""
+DevOps Engineer,3.4,16,512,No,Lenovo ThinkPad T14s
+IT Manager,3.4,16,512,No,Dell Latitude 7430
+Technical Writer,2.8,8,256,No,HP EliteBook 840 G6
+Cloud Engineer,3.4,16,512,No,Lenovo ThinkPad P52
+UX/UI Designer,3.6,16,512,Yes,Dell XPS 13
+IT Consultant,3.4,16,512,No,Apple MacBook Air M2
+IT Specialist,3.2,16,512,No,HP Spectre x360
+Business Intelligence Analyst,3.4,16,512,No,Lenovo ThinkPad X1
+Full Stack Developer,3.6,16,512,No,Dell Latitude 7400
+IT Analyst,3.2,16,512,No,Dell XPS 15
+Mobile App Developer,3.6,16,512,Yes,"Apple MacBook Pro 16"""
+Network Administrator,3.4,16,512,No,HP EliteBook 840 G6
+Application Support,3.2,16,512,No,Lenovo Yoga C740
+IT Operations Manager,3.4,16,512,No,Dell XPS 15
+IT Security Consultant,3.6,16,512,Yes,Dell Latitude 7420
+Data Architect,3.6,32,"1,000",No,"Apple MacBook Pro 16"""
+IT Coordinator,3.2,16,512,No,HP Envy x360
+Technology Manager,3.4,16,512,No,Lenovo ThinkPad T14s
+Technical Support Engineer,3.2,16,512,No,Dell Latitude 7400
+Technical Support Specialist,3,8,256,No,Dell Latitude 7420
+Systems Engineer,3.4,16,512,No,Lenovo ThinkPad X1
+Data Analyst,3.2,16,512,No,HP Spectre x360
+Network Security Engineer,3.6,16,512,Yes,Dell Precision 5550
+IT Project Manager,3.4,16,512,No,Apple MacBook Air M2
+IT Procurement Specialist,3.2,16,512,No,Lenovo ThinkPad T14s
+Cloud Solutions Architect,3.6,32,"1,000",No,Dell XPS 13
+IT Director,3.6,32,"1,000",No,HP Envy x360
+IT Asset Manager,3.4,16,512,No,Dell Latitude 7430
+Security Engineer,3.6,16,512,Yes,Lenovo ThinkPad P52
+IT Compliance Specialist,3.4,16,512,No,"Apple MacBook Pro 16"""
+IT Support Manager,3.4,16,512,No,Dell XPS 15
+Cloud Operations Specialist,3.6,16,512,No,Lenovo Yoga C740
+Systems Analyst,3.4,16,512,No,HP EliteBook 840 G6
+Technology Consultant,3.4,16,512,No,Dell Latitude 7400
+IT Systems Architect,3.6,32,"1,000",No,"Apple MacBook Pro 16"""
+IT Security Analyst,3.4,16,512,Yes,Dell Precision 5550
+Business Systems Analyst,3.2,16,512,No,Lenovo ThinkPad X1
+IT Trainer,3.2,16,512,No,HP Spectre x360
+Data Center Technician,3.2,16,512,No,Dell Latitude 7420
+IT Systems Manager,3.6,16,512,No,Lenovo ThinkPad T14s
+Cloud Engineer,3.4,16,512,No,"Apple MacBook Pro 13"""
+IT Support Specialist,2.8,8,256,No,HP Spectre x360
+Application Developer,3.4,16,512,No,Dell Latitude 7400
+Project Manager,3.4,16,512,No,Lenovo Yoga C740
+IT Specialist,3.2,16,512,No,Dell XPS 15
+Data Analyst,3.4,16,512,No,HP Envy x360
+IT Consultant,3.2,16,512,No,Lenovo ThinkPad P52
+Business Intelligence Analyst,3.6,16,512,No,Dell Precision 5550
+Network Administrator,3.4,16,512,No,Apple MacBook Air M2
+IT Director,3.6,32,"1,000",No,Dell XPS 15
+Systems Administrator,3.2,16,512,No,Lenovo ThinkPad X1
+Technical Services Manager,3.4,16,512,No,HP Spectre x360
+Network Security Specialist,3.6,16,512,Yes,Dell Latitude 7430
+IT Compliance Analyst,3.2,16,512,No,"Apple MacBook Pro 16"""
+Data Scientist,3.4,32,"1,000",Yes,Lenovo ThinkPad X1
+IT Support Specialist,2.7,8,256,No,Dell Latitude 7420
+Cloud Support Specialist,3.4,16,512,No,HP EliteBook 840 G6
+IT Operations Specialist,3.2,16,512,No,Dell Latitude 7400
+IT Specialist,3.6,16,512,No,Lenovo Yoga C740
+Application Support,3.4,16,512,No,Apple MacBook Air M2
+IT Auditor,3.2,16,512,No,Dell Latitude 7430
+Technical Support Specialist,3.2,16,512,No,HP Spectre x360
+Cloud Architect,3.6,32,"1,000",No,Lenovo ThinkPad X1
+Systems Engineer,3.4,16,512,No,Dell XPS 13
+IT Project Coordinator,3.2,16,512,No,"Apple MacBook Pro 16"""
+Data Center Technician,3.4,16,512,No,Lenovo ThinkPad P52
+Security Engineer,3.6,32,"1,000",No,Dell Precision 5550
+Network Engineer,3.4,16,512,No,HP Envy x360

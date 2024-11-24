@@ -1,0 +1,86 @@
+[
+    {
+        "laptop_model": "Dell Latitude 7400",
+        "cpu_speed": 3.2,
+        "ram": 16,
+        "storage": 512,
+        "status": "Available"
+    },
+    {
+        "laptop_model": "Dell Latitude 7400",
+        "cpu_speed": 3.2,
+        "ram": 16,
+        "storage": 512,
+        "status": "Available"
+    },
+    {
+        "laptop_model": "HP Spectre x360",
+        "cpu_speed": 3.1,
+        "ram": 16,
+        "storage": 512,
+        "status": "Available"
+    },
+    {
+        "laptop_model": "HP Spectre x360",
+        "cpu_speed": 3.1,
+        "ram": 16,
+        "storage": 512,
+        "status": "Available"
+    },
+    {
+        "laptop_model": "Lenovo Yoga C740",
+        "cpu_speed": 3.3,
+        "ram": 16,
+        "storage": 512,
+        "status": "Available"
+    },
+    {
+        "laptop_model": "Lenovo Yoga C740",
+        "cpu_speed": 3.3,
+        "ram": 16,
+        "storage": 512,
+        "status": "Available"
+    },
+    {
+        "laptop_model": "Apple MacBook Pro 13\"",
+        "cpu_speed": 3.4,
+        "ram": 16,
+        "storage": 512,
+        "status": "Available"
+    },
+    {
+        "laptop_model": "Apple MacBook Pro 13\"",
+        "cpu_speed": 3.4,
+        "ram": 16,
+        "storage": 512,
+        "status": "Available"
+    },
+    {
+        "laptop_model": "Dell XPS 15",
+        "cpu_speed": 3.2,
+        "ram": 16,
+        "storage": 512,
+        "status": "Available"
+    },
+    {
+        "laptop_model": "Dell XPS 15",
+        "cpu_speed": 3.2,
+        "ram": 16,
+        "storage": 512,
+        "status": "Available"
+    },
+    {
+        "laptop_model": "Lenovo ThinkPad P52",
+        "cpu_speed": 3.2,
+        "ram": 16,
+        "storage": 512,
+        "status": "Available"
+    },
+    {
+        "laptop_model": "Lenovo ThinkPad P52",
+        "cpu_speed": 3.2,
+        "ram": 16,
+        "storage": 512,
+        "status": "Available"
+    }
+]
